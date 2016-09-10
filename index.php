@@ -1,3 +1,3 @@
-<?php echo "hello world"; ?>
+<h1>Hello World</h1> 
 
-<img src="images/kitten.jpeg" width="80">
+<img src="images/kitten.jpeg" >
